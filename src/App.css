@@ -1,0 +1,14 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 30rem;
+  background: linear-gradient(to top, #fbd3e9, #b0a8ba);
+  padding: 2rem;
+
+  /* centered form inside body */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
